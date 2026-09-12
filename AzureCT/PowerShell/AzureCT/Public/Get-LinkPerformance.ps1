@@ -1,5 +1,5 @@
 ﻿function Get-LinkPerformance {
-    # 1. Evaluate and Set input parameters
+    # 1. Evaluate and Set input parameters ..
     # 2. Initialize
     # 3. Clear old run files
     # 4. Validate iPerf3 connectivity (two ping)Error Stop
